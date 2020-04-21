@@ -1,6 +1,7 @@
 .vscode
-Logs
-Packages
-Library
+Logs/
+Packages/
+Library/
 *.csproj
 *.sln
+Build*

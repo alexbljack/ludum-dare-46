@@ -5,11 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Control
-  - Floor
-  - Main
+  - ammo
+  - player_bullet
+  - enemy_bullet
+  - pointer
+  - platform
+  - control
   - eBullet
   - pBullet
-  - ammo
+  - Pointer
+  - Floor
   layers:
   - Default
   - TransparentFX
@@ -58,4 +63,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 2922918085
+    locked: 0
+  - name: UI
+    uniqueID: 3802667347
     locked: 0
